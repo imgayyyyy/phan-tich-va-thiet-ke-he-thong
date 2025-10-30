@@ -1,0 +1,124 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.8 Chrome/140.0.7339.240 Electron/38.4.0 Safari/537.36" version="28.2.8">
+  <diagram name="Page-1" id="PuQSqwo9ioano2wDWzA1">
+    <mxGraphModel dx="1216" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="85555P5QSrol6RgUpmjN-1" value="&lt;ul style=&quot;box-sizing: border-box; margin: 0px; padding: 0px 0px 0px 2rem; list-style: circle; color: rgb(33, 37, 41); font-family: SFProDisplay; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; padding-inline-start: 48px;&quot;&gt;&lt;li dir=&quot;ltr&quot; aria-level=&quot;1&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; background-color: transparent; color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 12pt; font-style: normal; font-variant: normal; font-weight: 400; list-style-type: disc; text-decoration: none; vertical-align: baseline; white-space: pre;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; background-color: transparent; color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 12pt;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Cho class User với các thành phần: username, password, login(), resetPassword(), lastLoginTime.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; aria-level=&quot;1&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; background-color: transparent; color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 12pt; font-style: normal; font-variant: normal; font-weight: 400; list-style-type: disc; text-decoration: none; vertical-align: baseline; white-space: pre;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; background-color: transparent; color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 12pt;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Gán phạm vi truy cập phù hợp cho từng thành phần và giải thích.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p dir=&quot;ltr&quot; style=&quot;box-sizing: border-box; margin: 6pt 0px; padding: 0px; color: rgb(0, 0, 0); font-family: SFProDisplay; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; line-height: 1.8;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; background-color: transparent; color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 12pt;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Trình bày dưới dạng bảng: Thành phần – Modifier – Giải thích&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="560" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="85555P5QSrol6RgUpmjN-2" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="190" y="250" width="390" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="85555P5QSrol6RgUpmjN-3" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="85555P5QSrol6RgUpmjN-2">
+          <mxGeometry width="390" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="85555P5QSrol6RgUpmjN-4" value="Thành phần" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="85555P5QSrol6RgUpmjN-3">
+          <mxGeometry width="130" height="80" as="geometry">
+            <mxRectangle width="130" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="85555P5QSrol6RgUpmjN-5" value="Modifier" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="85555P5QSrol6RgUpmjN-3">
+          <mxGeometry x="130" width="130" height="80" as="geometry">
+            <mxRectangle width="130" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="85555P5QSrol6RgUpmjN-6" value="Giải thích" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="85555P5QSrol6RgUpmjN-3">
+          <mxGeometry x="260" width="130" height="80" as="geometry">
+            <mxRectangle width="130" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="85555P5QSrol6RgUpmjN-7" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="85555P5QSrol6RgUpmjN-2">
+          <mxGeometry y="80" width="390" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="85555P5QSrol6RgUpmjN-8" value="username" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="85555P5QSrol6RgUpmjN-7">
+          <mxGeometry width="130" height="80" as="geometry">
+            <mxRectangle width="130" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="85555P5QSrol6RgUpmjN-9" value="-" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="85555P5QSrol6RgUpmjN-7">
+          <mxGeometry x="130" width="130" height="80" as="geometry">
+            <mxRectangle width="130" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="85555P5QSrol6RgUpmjN-10" value="dữ liệu người dùng cần được bảo vệ&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="85555P5QSrol6RgUpmjN-7">
+          <mxGeometry x="260" width="130" height="80" as="geometry">
+            <mxRectangle width="130" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="85555P5QSrol6RgUpmjN-11" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="85555P5QSrol6RgUpmjN-2">
+          <mxGeometry y="160" width="390" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="85555P5QSrol6RgUpmjN-12" value="password" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="85555P5QSrol6RgUpmjN-11">
+          <mxGeometry width="130" height="80" as="geometry">
+            <mxRectangle width="130" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="85555P5QSrol6RgUpmjN-13" value="-" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="85555P5QSrol6RgUpmjN-11">
+          <mxGeometry x="130" width="130" height="80" as="geometry">
+            <mxRectangle width="130" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="85555P5QSrol6RgUpmjN-14" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;dữ liệu người dùng cần được bảo vệ&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="85555P5QSrol6RgUpmjN-11">
+          <mxGeometry x="260" width="130" height="80" as="geometry">
+            <mxRectangle width="130" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="85555P5QSrol6RgUpmjN-15" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="85555P5QSrol6RgUpmjN-2">
+          <mxGeometry y="240" width="390" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="85555P5QSrol6RgUpmjN-16" value="login()" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="85555P5QSrol6RgUpmjN-15">
+          <mxGeometry width="130" height="80" as="geometry">
+            <mxRectangle width="130" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="85555P5QSrol6RgUpmjN-17" value="#" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="85555P5QSrol6RgUpmjN-15">
+          <mxGeometry x="130" width="130" height="80" as="geometry">
+            <mxRectangle width="130" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="85555P5QSrol6RgUpmjN-18" value="chỉ có user này chứa attribute này để xác thực tài khoản" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="85555P5QSrol6RgUpmjN-15">
+          <mxGeometry x="260" width="130" height="80" as="geometry">
+            <mxRectangle width="130" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="85555P5QSrol6RgUpmjN-19" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="85555P5QSrol6RgUpmjN-2">
+          <mxGeometry y="320" width="390" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="85555P5QSrol6RgUpmjN-20" value="reserPassword()" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="85555P5QSrol6RgUpmjN-19">
+          <mxGeometry width="130" height="80" as="geometry">
+            <mxRectangle width="130" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="85555P5QSrol6RgUpmjN-21" value="-" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="85555P5QSrol6RgUpmjN-19">
+          <mxGeometry x="130" width="130" height="80" as="geometry">
+            <mxRectangle width="130" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="85555P5QSrol6RgUpmjN-22" value="chỉ có user chứa mật khẩu mới có thể reset mật khẩu của mình" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="85555P5QSrol6RgUpmjN-19">
+          <mxGeometry x="260" width="130" height="80" as="geometry">
+            <mxRectangle width="130" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="85555P5QSrol6RgUpmjN-23" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="85555P5QSrol6RgUpmjN-2">
+          <mxGeometry y="400" width="390" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="85555P5QSrol6RgUpmjN-24" value="lastLoginTime" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="85555P5QSrol6RgUpmjN-23">
+          <mxGeometry width="130" height="80" as="geometry">
+            <mxRectangle width="130" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="85555P5QSrol6RgUpmjN-25" value="#" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="85555P5QSrol6RgUpmjN-23">
+          <mxGeometry x="130" width="130" height="80" as="geometry">
+            <mxRectangle width="130" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="85555P5QSrol6RgUpmjN-26" value="chỉ có các lớp con và lớp user biết được lần đăng nhập gần đây" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="85555P5QSrol6RgUpmjN-23">
+          <mxGeometry x="260" width="130" height="80" as="geometry">
+            <mxRectangle width="130" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
